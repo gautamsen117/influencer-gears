@@ -117,3 +117,18 @@ body {
     color: rgba(224, 44, 109, 0.87);
     border-radius: 41px;
 }
+/* Featurs section */
+.featured-section {
+    width: 1110px;
+    left: 200px;
+}
+.featured {
+    display: flex;
+}
+/* .half-width {
+    width: 50%;
+} */
+.half-width img {
+    width: 404px;
+    height: 270px;
+}
